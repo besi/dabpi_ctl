@@ -1,10 +1,8 @@
 # dabpi_ctl - RPi fm/fmhd/dab receiver control interface
 
-![Image of DABPi+ v11 PCB]
-(https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/dabpi+_v11.jpg)
+![Image of DABPi+ v11 PCB](https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/dabpi+_v11.jpg)
 DABPi+ for Raspberry Pi A+/B+ versions. Pi2 not tested yet.
-![Image of DABPi v1 PCB]
-(https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/dabpi_v1.jpg)
+![Image of DABPi v1 PCB](https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/dabpi_v1.jpg)
 DABPi for older Raspberry Pi A/B versions.
 
 ## News
@@ -21,8 +19,7 @@ This project is beta. A lot of features are still missing.
 ## Requirements
 
 You need a RPi that has the option to mount the I2S extension header.
-![Image of RPi with soldered I2S extension header]
-(https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/IMG_0292.JPG)
+![Image of RPi with soldered I2S extension header](https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/IMG_0292.JPG)
 
 Get the firmware package for Si4688 from Silabs.
 
@@ -34,8 +31,7 @@ To get the audio you need to install a new kernel. It can be compiled from here
 https://github.com/elmo2k3/linux or use the precompiled image. For the precompiled binarys, see the Install section.
 
 ## RPi A+/B+ instructions
-![Image of RPi B+ with additional cables]
-(https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/a_b_plus.jpg)
+![Image of RPi B+ with additional cables](https://github.com/elmo2k3/dabpi_ctl/blob/master/doc/pics/a_b_plus.jpg)
 
 Connect P5 header pins 3,4,5 to GPIO header pins 12,35,38.
 
